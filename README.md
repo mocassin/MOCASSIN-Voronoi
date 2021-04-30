@@ -1,5 +1,5 @@
 ## MOCASSIN-Voronoi
-[![GitHub license](https://img.shields.io/aur/license/yaourt.svg)](https://github.com/mocassin/MOCASSIN-Voronoi/blob/master/LICENSE)
+[![GitHub license](https://img.shields.io/badge/license-GPL-blue.svg)](https://github.com/mocassin/MOCASSIN-Voronoi/blob/master/LICENSE)
 
 **MOnte CArlo SimulationS of Ionized Nebulae**, Voronoi Version
 
